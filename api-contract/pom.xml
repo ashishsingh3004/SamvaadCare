@@ -101,7 +101,7 @@
                             <inputSpec>${project.basedir}/src/main/resources/payment.yaml</inputSpec>
                             <generatorName>spring</generatorName>
                             <apiPackage>com.samvaad.api.paymentapi</apiPackage>
-                            <modelPackage>com.samvaad.api.usermanagement.model</modelPackage>
+                            <modelPackage>com.samvaad.api.paymentmanagement.model</modelPackage>
                             <apiNameSuffix>PaymentManagementApi</apiNameSuffix>
                             <generateApiDocumentation>true</generateApiDocumentation>
                             <configOptions>
