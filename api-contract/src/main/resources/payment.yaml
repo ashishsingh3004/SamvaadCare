@@ -1,0 +1,8 @@
+openapi: 3.0.3
+info:
+  title: Payment Management API
+  version: 1.0.0
+  description: OpenAPI for Payment Management
+servers:
+  - url: http://localhost:8080
+    description: Local development server
